@@ -1,0 +1,6 @@
+{
+  "name": "RapportIQ — Analyse Financière d'Entreprises",
+  "description": "Comprenez les chiffres et analysez la performance financière des entreprises marocaines à travers des visualisations claires, des ratios financiers rigoureux et des sources traçables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
